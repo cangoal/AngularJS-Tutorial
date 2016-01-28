@@ -1,2 +1,2 @@
 # AngularJS-Tutorial
-This is an SAP using AngularJS
+This is an SPA using AngularJS
